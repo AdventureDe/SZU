@@ -1,0 +1,67 @@
+
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid {
+        padding-top: 56.25%
+      }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen and (max-width: 768px) {
+        .bannner-container .banner-sm-wraper .banner-sm-box .banner-sm-item:nth-child(3) .banner-sm-content, .bannner-container .banner-sm-wraper .banner-sm-box .banner-sm-item:nth-child(4) .banner-sm-content {
+            height: auto !important;
+        }
+    }
+
+    .vivo-container .stage1 .figure-box .figure .button-group2 .textlink .textlink-box a p, .stage1 .section .title .textlink .textlink-box a p {
+        font-family: "FZLT-ZHJ";
+    }
+
+    .vivo-container .stage1 .section .title .textlink .textlink-box a p {
+        display: flex;
+        align-items: center;
+    }
+
+    .vivo-container .stage1 .figure-box .figure .button-group2 .textlink .textlink-box a p span {
+        display: inline-flex;
+    }
+
+
+            @font-face {
+                font-family: 'VIVO-FONT-NAV-BOLD';
+                src: url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/dd7ba98f891d1d4ceaaf625ad4a99350.woff2") format('woff2'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/f8f62b52944a7e7d2433a707fc1b0ed2.eot") format('embedded-opentype'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/b6aa9e5f7b3ede5aac57cf6a526fef83.woff") format('woff'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/8fea047da50ef2855a3ad52d0f006b05.ttf") format('truetype'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/04931fb00644f25a99cda29a5cacb660.svg") format('svg');
+            }
+
+            @font-face {
+                font-family: 'VIVO-FONT-NAV';
+                src: url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/1c585a249b7ee0ca86d9391ad3dc8498.woff2") format('woff2'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/8bbbe4b83d2057ae9cd17e87caf2fce0.eot") format('embedded-opentype'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/ad6ce298aed51cde49beefc062235161.woff") format('woff'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/00a84c51e16062e868025577a10f04fd.ttf") format('truetype'),url("https://wwwstatic.vivo.com.cn/vivoportal/files/image/font/20231030/a5e430dc8a8a974a48b6b81c4fe48916.svg") format('svg');
+            }
+
+        
+
+        body .productColor .rightBox .sizeImage > img {
+            height: auto;
+        }
+    
